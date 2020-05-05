@@ -1,0 +1,10 @@
+root = true
+
+[*]
+insert_final_newline = false
+
+[*.{html,css,ts}]
+indent_size = 2
+indent_style = space
+end_of_line = lf
+insert_final_newline = true

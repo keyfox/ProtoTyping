@@ -1,0 +1,7 @@
+body {
+  background: #c0e0ff;
+}
+div#app > canvas {
+  border: 4px darken(#c0e0ff, 50) solid;
+  box-sizing: border-box;
+}
