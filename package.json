@@ -10,7 +10,7 @@
   },
   "private": true,
   "dependencies": {
-    "@keyfox/pochi": "^0.5.1",
+    "@keyfox/pochi": "^0.5",
     "pixi.js": "^5"
   },
   "devDependencies": {
