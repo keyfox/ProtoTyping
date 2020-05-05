@@ -24,9 +24,9 @@
     js-tokens "^4.0.0"
 
 "@keyfox/pochi@^0.5":
-  version "0.5.5"
-  resolved "https://npm.keyfox.net/@keyfox%2fpochi/-/pochi-0.5.5.tgz#3ae9211fb01a33e8ceaed4eed3fe69bb850364b7"
-  integrity sha512-zZOb0GTXEoi79bE5cqVEzzJiUOocICuLFigGPHk7ZkwJPzK1ZKweonck+L51F0VCudWQzB6Afu95cvMHO0iahQ==
+  version "0.5.6"
+  resolved "https://npm.keyfox.net/@keyfox%2fpochi/-/pochi-0.5.6.tgz#9fbd20c4405c3767a0730054cc4bc61ba092e28d"
+  integrity sha512-eWzAjgjE3QjDfErg2r9O6c3tZnbneGfwcpqhGO2NeVw16CJMVVztzJcp2qSy9kNEn8rXP3Y4KHM6zN/fEUqJpQ==
 
 "@pixi/accessibility@5.2.4":
   version "5.2.4"
