@@ -2,7 +2,8 @@
   "name": "@keyfox/prototyping",
   "version": "1.0.0",
   "main": "index.ts",
-  "license": "MIT",
+  "author": "Keyfox",
+  "license": "NYSL",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
     "devd": "webpack-dev-server --config webpack.dev.js --watch --watch-content-base",
